@@ -15,6 +15,23 @@ Flags from national teams made with only CSS
 - Responsive website
 - Cross browser flexbox
 
+## National team list
+
+- Belgium
+- Brazil
+- Denmark
+- England
+- Finland
+- France
+- ✔️ Germany
+- Italy
+- Japan
+- Netherlands
+- Poland
+- Portugal
+- Spain
+- Switzerland
+
 ## :woman: Author
 
 [@laisfrigerio](https://github.com/laisfrigerio/)
