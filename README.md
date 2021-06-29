@@ -23,7 +23,7 @@ Flags from national teams made with only CSS
 - England
 - Finland
 - France
-- ✔️ Germany
+- 🇩🇪 Germany
 - Italy
 - Japan
 - Netherlands
