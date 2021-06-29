@@ -1,0 +1,39 @@
+{
+  "name": "football-team-flags",
+  "version": "0.1.0",
+  "description": "Flags from brazilian teams made with css/scss",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laisfrigerio/football-team-flags.git"
+  },
+  "keywords": [
+    "html",
+    "html5",
+    "css",
+    "sass",
+    "scss",
+    "brazil",
+    "brazilian",
+    "teams",
+    "football",
+    "logos",
+    "gulp"
+  ],
+  "author": "Lais Frigerio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/laisfrigerio/football-team-flags/issues"
+  },
+  "homepage": "https://github.com/laisfrigerio/football-team-flags#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-csso": "^4.0.1",
+    "gulp-pug": "^5.0.0",
+    "gulp-sass": "^5.0.0"
+  }
+}
