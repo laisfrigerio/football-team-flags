@@ -1,0 +1,30 @@
+@import './teams/germany';
+
+.flags {
+  @extend %align-items-center;
+  @extend %flex;
+  @extend %flex-direction-column;
+  background: #d6e6f7;
+  padding: 64px 0;
+  
+  h2 {
+    font-size: 32px;
+    font-family: $font-secondary;
+    font-weight: 700;
+    color: $header;
+    margin-bottom: 32px;
+  }
+
+  .list {
+    @extend %inline-flex;
+    @extend %justify-content-center;
+    gap: 12px;
+  }
+}
+
+.flag {
+  box-shadow: 1px 2px 7px 4px rgba(177, 202, 228, 0.8);
+  cursor: pointer;
+  height: 300px;
+  width: 300px;
+}

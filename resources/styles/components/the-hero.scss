@@ -45,7 +45,18 @@
     svg {
       filter: brightness(0.6);
       height: auto;
-      width: 550px;
+      max-width: 550px;
+    }
+  }
+
+  @media screen and (max-width: $media-table) {
+    h1 {
+      text-align: left;
+    }
+
+    h2 {
+      margin: 32px 0;
+      text-align: center;
     }
   }
 }

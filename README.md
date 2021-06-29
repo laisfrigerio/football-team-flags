@@ -1,6 +1,6 @@
 # Football team flags 🏳
 
-Flags from brazilian teams made with only CSS
+Flags from national teams made with only CSS
 
 <p align="center">
   <a><img src="./screenshots/home-page.png" alt="Home page with title and an illustration from a girl playing a soccer game" title="Home page with title and an illustration from a girl playing a soccer game"></a>
@@ -10,7 +10,7 @@ Flags from brazilian teams made with only CSS
 
 - SASS
 - PUG
-- Gulp to compile SASS and PUG to CSS and HTML respectivaly
+- Gulp to compile SASS and PUG to CSS and HTML respectively
 - Git flow
 - Responsive website
 - Cross browser flexbox
