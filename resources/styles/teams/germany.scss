@@ -1,0 +1,24 @@
+.flag {
+  &.germany {
+    background-color: #dd0000;
+    position: relative;
+
+    &:before {
+      background-color: #000;
+      content: '';
+      height: 100px;
+      position: absolute;
+      top: 0;
+      width: 100%;
+    }
+
+    &:after {
+      background-color: #ffce00;
+      content: '';
+      height: 100px;
+      position: absolute;
+      bottom: 0;
+      width: 100%;
+    }
+  }
+}
