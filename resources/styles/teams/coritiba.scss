@@ -1,0 +1,49 @@
+$coritibaGreen: #02534d;
+
+@mixin circle($size, $color) {
+  @extend %align-items-center;
+  @extend %flex;
+  @extend %justify-content-center;
+  background: $color;
+  border-radius: 50%;
+  height: $size;
+  width: $size;
+}
+
+.coritiba {
+  @include circle(300px, $coritibaGreen);
+
+  .circle {
+    &.01 {
+      @include circle(290px, $white);
+    }
+
+    &.02 {
+      @include circle(280px, $coritibaGreen);
+    }
+
+    &.03 {
+      @include circle(220px, $white);
+    }
+
+    &.04 {
+      @include circle(210px, $coritibaGreen);
+      @extend %flex-direction-column;
+      line-height: 210px;
+    }
+
+    .letters {
+      
+      span {
+        color: $white;
+        font-size: 75px;
+        font-weight: 700;
+
+        &.middle {
+          font-size: 55px;
+          font-family: $font-secondary;
+        }
+      }
+    }
+  }
+}

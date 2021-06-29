@@ -10,7 +10,7 @@ Flags from brazilian teams made with only CSS
 
 - SASS
 - PUG
-- Gulp to compile SASS and PUG to CSS and HTML respectivaly
+- Gulp to compile SASS and PUG to CSS and HTML respectively
 - Git flow
 - Responsive website
 - Cross browser flexbox
