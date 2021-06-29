@@ -1,0 +1,7 @@
+@import './teams/coritiba';
+
+.flags {
+  @extend %flex;
+  @extend %justify-content-center;
+  padding: 152px 0;
+}

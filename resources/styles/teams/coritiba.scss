@@ -13,27 +13,29 @@ $coritibaGreen: #02534d;
 .coritiba {
   @include circle(300px, $coritibaGreen);
 
-  .circle {
-    &.01 {
-      @include circle(290px, $white);
-    }
+  .circle-01 {
+    @include circle(290px, $white);
+  }
 
-    &.02 {
-      @include circle(280px, $coritibaGreen);
-    }
+  .circle-02 {
+    @include circle(280px, $coritibaGreen);
+  }
 
-    &.03 {
-      @include circle(220px, $white);
-    }
+  .circle-03 {
+    @include circle(220px, $white);
+  }
 
-    &.04 {
-      @include circle(210px, $coritibaGreen);
-      @extend %flex-direction-column;
-      line-height: 210px;
+  .circle-04 {
+    @include circle(210px, $coritibaGreen);
+    @extend %flex-direction-column;
+
+    .curve {
+      background-color: red;
+      height: 20px;
+      width: 20px;
     }
 
     .letters {
-      
       span {
         color: $white;
         font-size: 75px;
@@ -42,6 +44,7 @@ $coritibaGreen: #02534d;
         &.middle {
           font-size: 55px;
           font-family: $font-secondary;
+          margin: 0 8px;
         }
       }
     }
