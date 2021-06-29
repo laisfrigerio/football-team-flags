@@ -30,10 +30,11 @@
   },
   "homepage": "https://github.com/laisfrigerio/football-team-flags#readme",
   "devDependencies": {
-    "gulp": "^4.0.2",
+    "gulp": "^4.0.0",
     "gulp-concat": "^2.6.1",
-    "gulp-csso": "^4.0.1",
+    "gulp-csso": "^3.0.1",
     "gulp-pug": "^5.0.0",
-    "gulp-sass": "^5.0.0"
+    "gulp-sass": "^5.0.0",
+    "node-sass": "^6.0.1"
   }
 }
