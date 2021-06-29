@@ -1,0 +1,29 @@
+.the-header {
+  background-color: $header;
+  border-bottom: 1px solid $border;
+  filter: brightness(0.9);
+  height: 60px;
+
+  header {
+    @extend %align-items-center;
+    @extend %flex;
+    @extend %justify-content-space-between;
+    height: 100%;
+    margin: 0 auto;
+    max-width: $max-header-width;
+    padding: 0 32px;
+  }
+
+  .logo {
+    span {
+      color: $white;
+      font-size: 25px;
+    }
+  }
+
+  ul {
+    li {
+      color: $white;
+    }
+  }
+}

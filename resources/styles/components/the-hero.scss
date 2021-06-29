@@ -1,0 +1,51 @@
+.the-hero {
+  margin: 100px auto 0;
+  max-width: $max-wrapper-width;
+  padding: 0 32px 0;
+
+  h1 {
+    font-family: $font-secondary;
+    font-size: 52px;
+    font-weight: 700;
+    letter-spacing: 4px;
+    line-height: 100%;
+  }
+
+  h2 {
+    @include quartenaryBgColor(0.15);
+    border-radius: 20px;
+    color: $tertinary;
+    font-size: 20px;
+    max-width: 490px;
+    margin: 32px auto;
+    padding: 8px 16px;
+    transition: all 0.2s;
+
+    &:hover {
+      @include quartenaryBgColor(0.4);
+    }
+  }
+
+  h1,
+  h2 {
+    text-align: center;
+  }
+
+  .hero-img {
+    @extend %align-items-center;
+    @extend %flex;
+    @extend %flex-direction-column;
+
+    a {
+      color: #455a64;
+      font-size: 12px;
+      text-decoration: none;
+    }
+
+    svg {
+      filter: brightness(0.6);
+      height: auto;
+      width: 550px;
+    }
+  }
+}
