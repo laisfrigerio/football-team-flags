@@ -2,23 +2,23 @@
     &.france {
       background-color: $white;
       position: relative;
-  
-      &:before {
-        background-color: #002290   ;
+
+      &:before,
+      &:after {
         content: '';
         height: 300px;
-        left: 0;
         position: absolute;
         width: 100px;
       }
   
+      &:before {
+        background-color: #002290   ;
+        left: 0;
+      }
+  
       &:after {
         background-color: #e62837;
-        content: '';
-        height: 300px;
-        position: absolute;
         right: 0;
-        width: 100px;
       }
     }
   }
