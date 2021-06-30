@@ -3,22 +3,22 @@
     background-color: #dd0000;
     position: relative;
 
+    &:before,
+    &:after {
+      content: '';
+      position: absolute;
+      height: 100px;
+      width: 100%;
+    }
+
     &:before {
       background-color: #000;
-      content: '';
-      height: 100px;
-      position: absolute;
       top: 0;
-      width: 100%;
     }
 
     &:after {
       background-color: #ffce00;
       bottom: 0;
-      content: '';
-      height: 100px;
-      position: absolute;
-      width: 100%;
     }
   }
 }

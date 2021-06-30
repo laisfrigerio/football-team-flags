@@ -1,6 +1,6 @@
 {
   "name": "football-team-flags",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "description": "Flags from brazilian teams made with css/scss",
   "main": "index.js",
   "scripts": {
