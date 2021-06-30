@@ -27,7 +27,7 @@ Flags from national teams made with only CSS
 - Italy
 - Japan
 - Netherlands
-- Poland
+- 🇵🇱 Poland
 - Portugal
 - Spain
 - Switzerland
