@@ -1,16 +1,15 @@
 .flag {
-    &.poland {
-      background-color: $white;
-      position: relative;
-  
-      &:after {
-        background-color: #d5133a;
-        bottom: 0;
-        content: '';
-        height: 150px;
-        position: absolute;
-        width: 100%;
-      }
+  &.poland {
+    background-color: $white;
+    position: relative;
+
+    &:after {
+      background-color: #d5133a;
+      bottom: 0;
+      content: '';
+      height: 150px;
+      position: absolute;
+      width: 100%;
     }
   }
-  
+}
