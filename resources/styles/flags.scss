@@ -14,9 +14,10 @@
   }
 
   .list {
+    @extend %flex-wrap;
     @extend %inline-flex;
     @extend %justify-content-center;
-    gap: 12px;
+    gap: 64px;
   }
 }
 
@@ -27,4 +28,6 @@
   width: 300px;
 }
 
+@import './teams/france';
 @import './teams/germany';
+@import './teams/poland';
