@@ -63,7 +63,7 @@ Lastly, you can downloaded the `Live Server` extension to start a local server t
 ## 🧑‍🤝‍🧑 Contributors
 
 | [<img src="https://avatars.githubusercontent.com/u/45500959?v=4" width="100px;" alt="Lucas Marchiori"/><br /><sub><b>Lucas Marchiori</b></sub>](https://www.lucasbmarchiori.com.br/)<br /> | [<img src="https://avatars.githubusercontent.com/u/53195920?v=4" width="100px;" alt="Natália Francisco"/><br /><sub><b>Natália Francisco</b></sub>](https://github.com/natalia-fs)<br /> |
-| :---: | :---: | :---: |
+| :---: | :---: |
 
 ## 📄 License
 
