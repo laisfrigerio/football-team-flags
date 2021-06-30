@@ -58,11 +58,11 @@ Lastly, you can downloaded the `Live Server` extension to start a local server t
 
 ## :woman: Author
 
-[@laisfrigerio](https://github.com/laisfrigerio/)
+| [<img src="https://avatars.githubusercontent.com/u/20709086?v=4" width="100px;" alt="Lais Frigério"/><br /><sub><b>@laisfrigerio</b></sub>](https://github.com/laisfrigerio)<br /> |
 
 ## 🧑‍🤝‍🧑 Contributors
 
-| [<img src="https://avatars.githubusercontent.com/u/20709086?v=4" width="100px;" alt="Lais Frigério"/><br /><sub><b>Lais Frigério</b></sub>](https://github.com/laisfrigerio)<br /> | [<img src="https://avatars.githubusercontent.com/u/45500959?v=4" width="100px;" alt="Lucas Marchiori"/><br /><sub><b>Lucas Marchiori</b></sub>](https://www.lucasbmarchiori.com.br/)<br /> | [<img src="https://avatars.githubusercontent.com/u/53195920?v=4" width="100px;" alt="Natália Francisco"/><br /><sub><b>Natália Francisco</b></sub>](https://github.com/natalia-fs)<br /> |
+| [<img src="https://avatars.githubusercontent.com/u/45500959?v=4" width="100px;" alt="Lucas Marchiori"/><br /><sub><b>Lucas Marchiori</b></sub>](https://www.lucasbmarchiori.com.br/)<br /> | [<img src="https://avatars.githubusercontent.com/u/53195920?v=4" width="100px;" alt="Natália Francisco"/><br /><sub><b>Natália Francisco</b></sub>](https://github.com/natalia-fs)<br /> |
 | :---: | :---: | :---: |
 
 ## 📄 License
