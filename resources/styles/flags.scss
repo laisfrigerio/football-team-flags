@@ -14,6 +14,7 @@
   }
 
   .list {
+    @extend %flex-wrap;
     @extend %inline-flex;
     @extend %justify-content-center;
     gap: 64px;
