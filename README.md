@@ -34,17 +34,17 @@ Flags from national teams made with only CSS
 
 ## Run
 
-- First of all, we must clone the repository:
+First of all, we must clone the repository:
 
 `$ git clone https://github.com/laisfrigerio/football-team-flags.git`
 `$ cd football-team-flags`
 
-- Then, install dependencies
+Then, install dependencies
 
 `$ npm install`
 `$ npm run build`
 
-- Lastly, you can downloaded the `Live Server` extension to start a local server to run the project
+Lastly, you can downloaded the `Live Server` extension to start a local server to run the project
 
 [Live Server extension info](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
@@ -84,8 +84,10 @@ The next command will send content to `develop` branch
 
 And lastly, send content to `main` branch:
 
-`$ git checkout main`
-`$ git push`
+```
+  $ git checkout main
+  $ git push
+```
 
 And create a new tag/version into github:
 
