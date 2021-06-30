@@ -74,7 +74,7 @@ When completing the taks, you must `close` the feature:
   $ git flow feature finish france`
 ```
 
-After run this command above, the content from `feature/france` will be merged automatically into `develop` branch
+After running the command above, the content from `feature/france` will be merged automatically into `develop` branch
 
 ## Deploy to production
 
@@ -90,9 +90,9 @@ Then `close` the release:
   $ git flow release finish 0.3.0
 ```
 
-After it, the release branch content will be merged automatically into `main` and `develop` branchs
+After it, the release branch content will be merged automatically into `main` and `develop` branches, respectively.
 
-The next command will send content to `develop` branch
+The next command will send content to `develop` branch:
 
 ```
   $ git push
