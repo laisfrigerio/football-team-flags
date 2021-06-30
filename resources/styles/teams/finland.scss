@@ -1,25 +1,24 @@
 .flag {
   &.finland {
-    background-color: #fff;
+    background-color: $white;
     position: relative;
 
     &:before,
     &:after {
+      background-color: #002290;
       content: "";
       position: absolute;
     }
 
     &:before {
-      background-color: #002290;
       height: 300px;
-      width: 100px;
-      top: 0;
       left: 75px;
+      top: 0;
+      width: 100px;
     }
     &:after {
-      background-color: #002290;
-      top: 100px;
       height: 100px;
+      top: 100px;
       width: 100%;
     }
   }

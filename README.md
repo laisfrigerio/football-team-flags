@@ -3,7 +3,11 @@
 Flags from national teams made with only CSS
 
 <p align="center">
-  <a><img src="./screenshots/home-page-4-nationals.png" alt="Home page with title and an illustration from a girl playing a soccer game" title="Home page with title and an illustration from a girl playing a soccer game"></a>
+  <a><img src="./screenshots/home-page-4-nationals-desktop.png" alt="Versão desktop: Home page with title and an illustration from a girl playing a soccer game" title="Home page with title and an illustration from a girl playing a soccer game"></a>
+</p>
+
+<p align="center">
+  <a><img src="./screenshots/home-page-4-nationals-mobile.png" alt="Versão mobile: Home page with title and an illustration from a girl playing a soccer game" title="Home page with title and an illustration from a girl playing a soccer game"></a>
 </p>
 
 ## 🛠️ Stack
@@ -21,7 +25,7 @@ Flags from national teams made with only CSS
 - Brazil
 - Denmark
 - England
-- Finland
+- 🇫🇮 Finland
 - 🇫🇷 France
 - 🇩🇪 Germany
 - Italy
@@ -55,6 +59,11 @@ Lastly, you can downloaded the `Live Server` extension to start a local server t
 ## :woman: Author
 
 [@laisfrigerio](https://github.com/laisfrigerio/)
+
+## 🧑‍🤝‍🧑 Contributors
+
+| [<img src="https://avatars.githubusercontent.com/u/20709086?v=4" width="100px;" alt="Lais Frigério"/><br /><sub><b>Lais Frigério</b></sub>](https://github.com/laisfrigerio)<br /> | [<img src="https://avatars.githubusercontent.com/u/45500959?v=4" width="100px;" alt="Lucas Marchiori"/><br /><sub><b>Lucas Marchiori</b></sub>](https://www.lucasbmarchiori.com.br/)<br /> | [<img src="https://avatars.githubusercontent.com/u/53195920?v=4" width="100px;" alt="Natália Francisco"/><br /><sub><b>Natália Francisco</b></sub>](https://github.com/natalia-fs)<br /> |
+| :---: | :---: | :---: |
 
 ## 📄 License
 
