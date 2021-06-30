@@ -3,7 +3,7 @@
 Flags from national teams made with only CSS
 
 <p align="center">
-  <a><img src="./screenshots/home-page-2-nationals.png" alt="Home page with title and an illustration from a girl playing a soccer game" title="Home page with title and an illustration from a girl playing a soccer game"></a>
+  <a><img src="./screenshots/home-page-4-nationals.png" alt="Home page with title and an illustration from a girl playing a soccer game" title="Home page with title and an illustration from a girl playing a soccer game"></a>
 </p>
 
 ## 🛠️ Stack
@@ -26,7 +26,7 @@ Flags from national teams made with only CSS
 - 🇩🇪 Germany
 - Italy
 - Japan
-- Netherlands
+- 🇳🇱 Netherlands
 - 🇵🇱 Poland
 - Portugal
 - Spain
