@@ -107,7 +107,9 @@ And lastly, send content to `main` branch:
 
 And create a new tag/version into github:
 
-`$ git push --tags`
+```
+  $ git push --tags
+```
 
 ## :woman: Author
 
