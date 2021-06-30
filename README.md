@@ -36,13 +36,17 @@ Flags from national teams made with only CSS
 
 First of all, we must clone the repository:
 
-`$ git clone https://github.com/laisfrigerio/football-team-flags.git`
-`$ cd football-team-flags`
+```
+  $ git clone https://github.com/laisfrigerio/football-team-flags.git
+  $ cd football-team-flags
+```
 
 Then, install dependencies
 
-`$ npm install`
-`$ npm run build`
+```
+  $ npm install
+  $ npm run build
+```
 
 Lastly, you can downloaded the `Live Server` extension to start a local server to run the project
 
@@ -52,17 +56,23 @@ Lastly, you can downloaded the `Live Server` extension to start a local server t
 
 We use `git flow` to add new features and/or fix some bug's. To start, you must run the following command:
 
-`$ git flow init`
+```
+  $ git flow init
+```
 
 ### Workflow:
 
 To add a new flag, you must to create a feature, like:
 
-`$ git flow feature start france`
+```
+  $ git flow feature start france
+```
 
 When completing the taks, you must `close` the feature:
 
-`$ git flow feature finish france`
+```
+  $ git flow feature finish france`
+```
 
 After run this command above, the content from `feature/france` will be merged automatically into `develop` branch
 
@@ -70,17 +80,23 @@ After run this command above, the content from `feature/france` will be merged a
 
 From `develop` branch, you must create a release:
 
-`$ git flow release start 0.3.0`
+```
+  $ git flow release start 0.3.0
+```
 
 Then `close` the release:
 
-`$ git flow release finish 0.3.0`
+```
+  $ git flow release finish 0.3.0
+```
 
 After it, the release branch content will be merged automatically into `main` and `develop` branchs
 
 The next command will send content to `develop` branch
 
-`$ git push`
+```
+  $ git push
+```
 
 And lastly, send content to `main` branch:
 
