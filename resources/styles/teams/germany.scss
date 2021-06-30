@@ -14,10 +14,10 @@
 
     &:after {
       background-color: #ffce00;
+      bottom: 0;
       content: '';
       height: 100px;
       position: absolute;
-      bottom: 0;
       width: 100%;
     }
   }
