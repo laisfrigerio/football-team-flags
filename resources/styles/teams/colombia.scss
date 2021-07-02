@@ -1,24 +1,25 @@
 .flag {
-  &.germany {
-    background-color: #dd0000;
+  &.colombia {
+    background-color: #00368e;
     position: relative;
 
     &:before,
     &:after {
       content: "";
       position: absolute;
-      height: 100px;
       width: 100%;
     }
 
     &:before {
-      background-color: #000;
+      background-color: #f4ca15;
       top: 0;
+      height: 150px;
     }
 
     &:after {
-      background-color: #ffce00;
+      background-color: #c81025;
       bottom: 0;
+      height: 75px;
     }
   }
 }
