@@ -1,0 +1,16 @@
+.flag {
+  &.bangladesh {
+    background-color: #006A4E;
+    position: relative;
+
+    &:after {
+      background-color: #d5133a;
+      content: '';
+      height: 150px;
+      position: absolute;
+      width: 150px;
+      border-radius: 50%;
+      margin: 3.5rem 0 0 3.5rem;
+    }
+  }
+}
