@@ -1,0 +1,25 @@
+.flag {
+  &.colombia {
+    background-color: #00368e;
+    position: relative;
+
+    &:before,
+    &:after {
+      content: "";
+      position: absolute;
+      width: 100%;
+    }
+
+    &:before {
+      background-color: #f4ca15;
+      top: 0;
+      height: 150px;
+    }
+
+    &:after {
+      background-color: #c81025;
+      bottom: 0;
+      height: 75px;
+    }
+  }
+}
