@@ -21,8 +21,11 @@ Flags from national teams made with only CSS
 
 ## National team list
 
+- 🇦🇹 Austria
+- 🇧🇩 Bangladesh
 - Belgium
 - Brazil
+- 🇨🇴 Colombia
 - Denmark
 - England
 - 🇫🇮 Finland
