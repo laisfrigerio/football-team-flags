@@ -1,0 +1,23 @@
+.flag {
+  &.austria {
+    background-color:$white;
+    position: relative;
+
+    &:before,
+    &:after {
+      content: '';
+      height: 100px;
+      position: absolute;
+      width: 100%
+    }
+
+    &:before {
+      background-color: #e93535;
+      top: 0;
+    }
+    &:after {
+      background-color: #e93535;
+      bottom:0;
+    }
+  }
+}
