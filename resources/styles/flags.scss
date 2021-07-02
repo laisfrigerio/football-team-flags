@@ -4,7 +4,7 @@
   @extend %flex-direction-column;
   background: #d6e6f7;
   padding: 64px 0;
-  
+
   h2 {
     font-size: 32px;
     font-family: $font-secondary;
@@ -28,8 +28,9 @@
   width: 300px;
 }
 
-@import './teams/finland';
-@import './teams/france';
-@import './teams/germany';
-@import './teams/netherlands';
-@import './teams/poland';
+@import "./teams/finland";
+@import "./teams/france";
+@import "./teams/germany";
+@import "./teams/netherlands";
+@import "./teams/poland";
+@import "./teams/colombia";
