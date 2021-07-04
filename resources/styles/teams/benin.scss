@@ -1,0 +1,26 @@
+.flag {
+    &.benin {
+      background-color: #00834e;
+      position: relative;
+  
+      &:before,
+      &:after {
+        content: "";
+        height: 150px;
+        position: absolute;
+        right: 0;
+        width: 180px;
+      }
+  
+      &:before {
+        background-color: #f4ca15;
+        top: 0;
+      }
+  
+      &:after {
+        background-color: #e1102c;
+        bottom: 0;
+      }
+    }
+  }
+  
