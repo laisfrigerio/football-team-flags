@@ -25,6 +25,7 @@ Flags from national teams made with only CSS
 - 🇧🇩 Bangladesh
 - 🇧🇪 Belgium
 - Brazil
+- 🇧🇬 Bulgaria
 - 🇨🇴 Colombia
 - Denmark
 - England

@@ -1,0 +1,25 @@
+.flag {
+    &.bulgaria {
+      background-color: #00916b;
+      position: relative;
+  
+      &:before,
+      &:after {
+        content: "";
+        height: 100px;
+        position: absolute;
+        width: 100%;
+      }
+  
+      &:before {
+        background-color: #f7f7f7;
+        top: 0;
+      }
+  
+      &:after {
+        background-color: #cf2511;
+        bottom: 0;
+      }
+    }
+  }
+  
