@@ -1,0 +1,25 @@
+.flag {
+    &.belgium {
+      background-color: #f2d940;
+      position: relative;
+  
+      &:before,
+      &:after {
+        content: "";
+        height: 100%;
+        position: absolute;
+        width: 100px;
+      }
+  
+      &:before {
+        background-color: #000000;
+        left: 0;
+      }
+  
+      &:after {
+        background-color: #e62837;
+        right: 0;
+      }
+    }
+  }
+  
