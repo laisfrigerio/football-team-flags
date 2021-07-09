@@ -11,15 +11,7 @@
           position: absolute;
           width: 300px
       }
-
-      &:after {
-        content: '';
-        height: 200px;
-        position: absolute;
-        top: -300px;
         
-      }
-  
       &:before {
         background-color: #1c7333;
         top: 0;
