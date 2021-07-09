@@ -1,5 +1,5 @@
 .flag {
-  &.france {
+  &.italy {
     background-color: $white;
     position: relative;
 
@@ -12,12 +12,11 @@
     }
 
     &:before {
-      background-color: #002290;
+      background-color: #00a042;
       left: 0;
     }
-
     &:after {
-      background-color: #e62837;
+      background-color: #da002f;
       right: 0;
     }
   }
