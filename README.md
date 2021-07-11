@@ -33,13 +33,43 @@ Flags from national teams made with only CSS
 - 🇫🇮 Finland
 - 🇫🇷 France
 - 🇩🇪 Germany
-- Italy
+- 🇮🇹 Italy
 - Japan
 - 🇳🇱 Netherlands
 - 🇵🇱 Poland
 - Portugal
 - Spain
 - Switzerland
+
+## Brazilian flag list
+
+- Acré
+- Alagoas
+- Amapá
+- Amazonas
+- Bahia
+- Ceará
+- Distrito Federal
+- Espirito Santo
+- Goiás
+- Maranhão
+- Mato Grosso
+- Mato Grosso do Sul
+- Minas Gerais
+- Pará
+- Paraíba
+- Paraná
+- Pernambuco
+- Piauí
+- Rio Grande do Norte
+- ☑️ Rio Grande do Sul
+- Rio de Janeiro
+- Rondônia
+- Roraima
+- São Paulo
+- Santa Catarina
+- Sergipe
+- Tocantins
 
 ## Run
 
@@ -68,8 +98,8 @@ Lastly, you can downloaded the `Live Server` extension to start a local server t
 
 ## 🧑‍🤝‍🧑 Contributors
 
-| [<img src="https://avatars.githubusercontent.com/u/45500959?v=4" width="100px;" alt="Lucas Marchiori"/><br /><sub><b>Lucas Marchiori</b></sub>](https://www.lucasbmarchiori.com.br/)<br /> | [<img src="https://avatars.githubusercontent.com/u/53195920?v=4" width="100px;" alt="Natália Francisco"/><br /><sub><b>Natália Francisco</b></sub>](https://github.com/natalia-fs)<br /> | [<img src="https://avatars.githubusercontent.com/u/42191435?v=4" width="100px;" alt="Anderson Coelho"/><br /><sub><b>Anderson Coelho</b></sub>](https://github.com/AndersonAlvesCoelho)<br /> | [<img src="https://avatars.githubusercontent.com/u/74121763?v=4" width="100px;" alt="Erismar Oliveira"/><br /><sub><b>Erismar Oliveira</b></sub>](https://github.com/erismaroliveira)<br /> |
-| :---: | :---: | :---: | :---: |
+| [<img src="https://avatars.githubusercontent.com/u/45500959?v=4" width="100px;" alt="Lucas Marchiori"/><br /><sub><b>Lucas Marchiori</b></sub>](https://www.lucasbmarchiori.com.br/)<br /> | [<img src="https://avatars.githubusercontent.com/u/53195920?v=4" width="100px;" alt="Natália Francisco"/><br /><sub><b>Natália Francisco</b></sub>](https://github.com/natalia-fs)<br /> | [<img src="https://avatars.githubusercontent.com/u/42191435?v=4" width="100px;" alt="Anderson Coelho"/><br /><sub><b>Anderson Coelho</b></sub>](https://github.com/AndersonAlvesCoelho)<br /> | [<img src="https://avatars.githubusercontent.com/u/74121763?v=4" width="100px;" alt="Erismar Oliveira"/><br /><sub><b>Erismar Oliveira</b></sub>](https://github.com/erismaroliveira)<br /> | [<img src="https://avatars.githubusercontent.com/u/57373980?v=4" width="100px;" alt="Eduardo Nogueira"/><br /><sub><b>Eduardo Nogueira</b></sub>](https://github.com/dudunog)<br /> | [<img src="https://avatars.githubusercontent.com/u/43506706?v=4" width="100px;" alt="Ruan Carlos"/><br /><sub><b>Ruan Carlos</b></sub>](https://github.com/AguaPotavel)<br /> |
+| :---: | :---: | :---: | :---: | :---: | :---: | 
 
 ## 📄 License
 
