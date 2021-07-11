@@ -1,0 +1,30 @@
+.flag {
+    &.riograndedosul {
+      background-color: #c9b620;
+      position: relative;
+      justify-content: center;
+      align-items: center;      
+  
+      &:before{
+          content: '';
+          height: 150px;
+          position: absolute;
+          width: 300px
+      }
+        
+      &:before {
+        background-color: #1c7333;
+        top: 0;
+      }
+      
+    }
+  }
+
+.riograndedosul-clip{
+    width: 300px;
+    height: 300px;
+    background-color: red;
+    z-index: 99999;
+    position: relative;
+    clip-path: polygon(100% 0, 100% 51%, 0 100%, 0 49%);
+}
