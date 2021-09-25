@@ -73,7 +73,7 @@ Flags from national teams made with only CSS
 
 ## How to Contribute
 
-Please, read [CONTRIBUTION.md](https://github.com/laisfrigerio/football-team-flags/CONTRIBUTION.md) file
+Please, read [CONTRIBUTION.md](https://github.com/laisfrigerio/football-team-flags/blob/main/CONTRIBUTION.md) file
 
 ## Run
 
