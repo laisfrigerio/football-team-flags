@@ -71,12 +71,27 @@ Flags from national teams made with only CSS
 - Sergipe
 - Tocantins
 
+## How to Contribute
+
+Please, read [CONTRIBUTION.md](https://github.com/laisfrigerio/football-team-flags/CONTRIBUTION.md) file
+
 ## Run
 
 First of all, we must clone the repository:
 
 ```
   $ git clone https://github.com/laisfrigerio/football-team-flags.git
+```
+
+Or case if it is a fork:
+
+```
+  $ git clone https://github.com/<your_username>/football-team-flags.git
+```
+
+And get into folder:
+
+```
   $ cd football-team-flags
 ```
 
