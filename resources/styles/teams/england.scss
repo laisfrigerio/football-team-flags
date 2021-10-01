@@ -1,0 +1,25 @@
+.flag {
+  &.england {
+    background-color: $white;
+    position: relative;
+
+    &:before,
+    &:after {
+      background-color: #CC0000;
+      content: "";
+      position: absolute;
+    }
+
+    &:before {
+      height: 300px;
+      left: 125px;
+      top: 0;
+      width: 50px;
+    }
+    &:after {
+      height: 50px;
+      top: 125px;
+      width: 100%;
+    }
+  }
+}
