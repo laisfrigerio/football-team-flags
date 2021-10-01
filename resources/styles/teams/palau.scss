@@ -1,0 +1,16 @@
+.flag {
+  &.palau {
+    background-color: #009AFF;
+    position: relative;
+
+    &:after {
+      background-color: #FFFF00;
+      content: '';
+      height: 170px;
+      position: absolute;
+      width: 170px;
+      border-radius: 50%;
+      margin: 65px 0 0 2.5rem;
+    }
+  }
+}
