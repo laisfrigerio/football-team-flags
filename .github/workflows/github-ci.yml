@@ -27,3 +27,16 @@ jobs:
         cache: 'npm'
     - run: npm ci
     - run: npm run build
+    - run: |
+        mkdir -p css
+        yes| cp -rf app.css ./css/
+    - run: |
+        git config --local user.email "laisfrigerio@hotmail.com"
+        git config --local user.name "Lais Frigério"
+        git add ./css
+        git commit -m "[GITHUB ACTIONS] Add css folder generate by build script"
+    - name: Push changes
+        uses: ad-m/github-push-action@main
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          force: true
