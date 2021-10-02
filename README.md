@@ -29,13 +29,14 @@ Flags from national teams made with only CSS
 - 🇧🇬 Bulgaria
 - 🇨🇴 Colombia
 - Denmark
-- England
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England
 - 🇫🇮 Finland
 - 🇫🇷 France
 - 🇩🇪 Germany
 - 🇮🇹 Italy
 - Japan
 - 🇳🇱 Netherlands
+- 🇵🇼 Palau
 - 🇵🇱 Poland
 - Portugal
 - Spain
