@@ -29,9 +29,6 @@ jobs:
     - run: npm run build
     - run: |
         ls -la
-        mkdir -p css
-        yes| cp -rf app.css ./css/
-    - run: |
         git config --local user.email "laisfrigerio@hotmail.com"
         git config --local user.name "Lais Frigério"
         git add ./css
