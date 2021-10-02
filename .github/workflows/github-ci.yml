@@ -36,8 +36,3 @@ jobs:
         git add ./css
         git commit -m "[GITHUB ACTIONS] Add css folder generate by build script"
         git push
-    - name: Push changes
-        - uses: actions/checkout@v2
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          force: true
