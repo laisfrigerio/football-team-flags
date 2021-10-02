@@ -1,6 +1,6 @@
 # How to Contribute
 
-f you think that you can add a new feature or want to fix a bug, we invite you to contribute to football-team-flags and make this project better. To start contributing, follow the below instructions:
+If you think that you can add a new feature or want to fix a bug, we invite you to contribute to football-team-flags and make this project better. To start contributing, follow the below instructions:
 
 1. Fork this repository
 
@@ -33,6 +33,7 @@ f you think that you can add a new feature or want to fix a bug, we invite you t
 9. Check your changes:
 
 `git status`
+
 `git diff`
 
 10. Stage your changes:
