@@ -28,6 +28,7 @@ jobs:
     - run: npm ci
     - run: npm run build
     - run: |
+        ls -la
         mkdir -p css
         yes| cp -rf app.css ./css/
     - run: |
