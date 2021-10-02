@@ -35,6 +35,7 @@ jobs:
         git config --local user.name "Lais Frigério"
         git add ./css
         git commit -m "[GITHUB ACTIONS] Add css folder generate by build script"
+        git push
     - name: Push changes
         - uses: actions/checkout@v2
         with:
