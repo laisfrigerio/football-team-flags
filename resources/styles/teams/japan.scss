@@ -1,0 +1,18 @@
+.flag {
+  &.japan {
+    background-color:$white;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    &:after {
+      background-color: red;
+      content: '';
+      height: 100px;
+      width: 100px;
+      border-radius: 50%;
+   
+    }
+  }
+}
