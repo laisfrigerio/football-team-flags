@@ -1,0 +1,30 @@
+.flag {
+    &.parana {
+      background-color: #00a863;
+      position: relative;
+      justify-content: center;
+      align-items: center;      
+  
+      &:before{
+          content: '';
+          height: 150px;
+          position: absolute;
+          width: 300px
+      }
+        
+      &:before {
+        background-color: #00a863;
+        top: 0;
+      }
+      
+    }
+  }
+
+.parana-clip{
+    width: 300px;
+    height: 300px;
+    background-color: white;
+    z-index: 99999;
+    position: relative;
+    clip-path: polygon(0 33%, 0 0, 100% 66%, 100% 100%);
+}   
