@@ -1,0 +1,14 @@
+.flag.japan {
+  background-color: white;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.circle.japan {
+  background-color: red;
+  height: 100px;
+  width: 100px;
+  border-radius: 3rem;
+}
