@@ -1,18 +1,17 @@
 .flag {
   &.japan {
-    background-color:$white;
+    @extend %align-items-center;
+    @extend %flex;
+    @extend %justify-content-center;
+    background-color: $white;
     position: relative;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 
     &:after {
       background-color: red;
+      border-radius: 50%;
       content: '';
       height: 100px;
       width: 100px;
-      border-radius: 50%;
-   
     }
   }
 }
