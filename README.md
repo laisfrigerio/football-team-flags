@@ -57,7 +57,7 @@ Flags from national teams made with only CSS
 - Mato Grosso
 - Mato Grosso do Sul
 - Minas Gerais
-- Pará
+- ☑️ Pará
 - Paraíba
 - ☑️ Paraná
 - Pernambuco
