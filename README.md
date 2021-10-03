@@ -34,7 +34,7 @@ Flags from national teams made with only CSS
 - 🇫🇷 France
 - 🇩🇪 Germany
 - 🇮🇹 Italy
-- Japan
+- 🇯🇵 Japan
 - 🇳🇱 Netherlands
 - 🇵🇼 Palau
 - 🇵🇱 Poland
@@ -59,7 +59,7 @@ Flags from national teams made with only CSS
 - Minas Gerais
 - Pará
 - Paraíba
-- Paraná
+- ☑️ Paraná
 - Pernambuco
 - Piauí
 - Rio Grande do Norte

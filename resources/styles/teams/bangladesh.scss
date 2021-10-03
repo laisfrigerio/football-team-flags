@@ -5,12 +5,12 @@
 
     &:after {
       background-color: #d5133a;
+      border-radius: 50%;
       content: '';
       height: 150px;
+      margin: 3.5rem 0 0 3.5rem;
       position: absolute;
       width: 150px;
-      border-radius: 50%;
-      margin: 3.5rem 0 0 3.5rem;
     }
   }
 }
