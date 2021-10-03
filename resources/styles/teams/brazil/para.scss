@@ -1,0 +1,65 @@
+$primary-color: #ff0000;
+$secondary-color: #0000ff;
+
+.flag {
+  &.para {
+    background-color: $primary-color;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+
+    &:before {
+      content: '';
+      height: 150px;
+      position: absolute;
+      width: 300px;
+    }
+
+    &:before {
+      top: 0;
+    }
+  }
+}
+
+.para-clip {
+  width: 300px;
+  height: 300px;
+  background-color: white;
+  z-index: 99999;
+  position: relative;
+  clip-path: polygon(0 33%, 0 0, 100% 66%, 100% 100%);
+  display: grid;
+  place-content: center;
+
+  &::after {
+    content: '';
+    display: block;
+    width: 30px;
+    height: 30px;
+    background-color: $secondary-color;
+    -webkit-clip-path: polygon(
+      50% 0%,
+      61% 35%,
+      98% 35%,
+      68% 57%,
+      79% 91%,
+      50% 70%,
+      21% 91%,
+      32% 57%,
+      2% 35%,
+      39% 35%
+    );
+    clip-path: polygon(
+      50% 0%,
+      61% 35%,
+      98% 35%,
+      68% 57%,
+      79% 91%,
+      50% 70%,
+      21% 91%,
+      32% 57%,
+      2% 35%,
+      39% 35%
+    );
+  }
+}
