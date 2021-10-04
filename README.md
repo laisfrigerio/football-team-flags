@@ -29,13 +29,14 @@ Flags from national teams made with only CSS
 - 🇧🇬 Bulgaria
 - 🇨🇴 Colombia
 - Denmark
-- England
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England
 - 🇫🇮 Finland
 - 🇫🇷 France
 - 🇩🇪 Germany
 - 🇮🇹 Italy
-- Japan
+- 🇯🇵 Japan
 - 🇳🇱 Netherlands
+- 🇵🇼 Palau
 - 🇵🇱 Poland
 - Portugal
 - Spain
@@ -56,9 +57,9 @@ Flags from national teams made with only CSS
 - Mato Grosso
 - Mato Grosso do Sul
 - Minas Gerais
-- Pará
+- ☑️ Pará
 - Paraíba
-- Paraná
+- ☑️ Paraná
 - Pernambuco
 - Piauí
 - Rio Grande do Norte
